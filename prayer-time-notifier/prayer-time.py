@@ -7,11 +7,11 @@ import sys
 
 # ========== CONFIGURATION ==========
 PRAYER_TIMES = {
-    "Fajr": "05:00",
-    "Dhuhr": "13:45",
-    "Asr": "16:30",
-    "Maghrib": "18:05",
-    "Isha": "19:30"
+    "Fajr": "00:00",
+    "Dhuhr": "00:00",
+    "Asr": "00:00",
+    "Maghrib": "00:00",
+    "Isha": "00:00"
 }
 
 DEBUG = False
